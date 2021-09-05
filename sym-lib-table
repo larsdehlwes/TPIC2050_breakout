@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name tpic2050)(type Legacy)(uri ${KIPRJMOD}/tpic2050.lib)(options "")(descr ""))
+  (lib (name tpic2050_breakout-rescue)(type Legacy)(uri ${KIPRJMOD}/tpic2050_breakout-rescue.lib)(options "")(descr ""))
+)
